@@ -31,4 +31,8 @@ open this link
 
 https://whimsical-entremet-aaa425.netlify.app/
 
+## Screenshot
+
+![Weather App Screenshot](Images/img1.png)
+
 ```
