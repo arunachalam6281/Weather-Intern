@@ -1,4 +1,3 @@
-```markdown
 # Weather App
 
 A simple weather application built using HTML, CSS and JavaScript.
@@ -34,5 +33,3 @@ https://whimsical-entremet-aaa425.netlify.app/
 ## Screenshot
 
 ![Weather App Screenshot](Images/img1.png)
-
-```
