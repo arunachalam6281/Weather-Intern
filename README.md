@@ -23,4 +23,12 @@ A simple weather application built using HTML, CSS and JavaScript.
 ## How to Run
 
 Open `index.html` in a web browser.
+
+
+    (or)
+
+open this link
+
+https://whimsical-entremet-aaa425.netlify.app/
+
 ```
